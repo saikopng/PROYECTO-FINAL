@@ -6,8 +6,8 @@ const StackScreen = () => {
         <View>
             <Text
                 style={{
-                    fontSize: 30,
-                    textAling: "center",
+                    fontSize: 40,
+                    textAlign: "center",
                     marginTop: "20%"
                 }}
             >Stack Screen</Text>

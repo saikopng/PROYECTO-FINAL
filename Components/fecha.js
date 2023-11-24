@@ -45,12 +45,12 @@ const FechaPicker = ({ selectedDate, onDateChange, showDatePicker, setShowDatePi
     const styles = {
         selectedDateText: {
           fontSize: 18,
-          color: 'blue', // Cambia el color según tu diseño
+          color: '#FA8E7D', // Cambia el color según tu diseño
           // Otros estilos personalizados
         },
         selectDateText: {
           fontSize: 16,
-          color: 'gray', // Cambia el color según tu diseño
+          color: '#FA8E7D', // Cambia el color según tu diseño
           // Otros estilos personalizados
         },
       };

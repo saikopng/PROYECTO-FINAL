@@ -23,9 +23,10 @@ const styles = {
           marginTop: 20,
           borderWidth: 1,
           borderColor: 'gray',
-          backgroundColor: '#D8D8D8',
-          borderRadius: 30,
+          backgroundColor: '#FA8E7D',
+          borderRadius: 40,
           paddingStart: 10,
+          color: 'white'
         }
       };
       
